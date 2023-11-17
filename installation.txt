@@ -1,0 +1,11 @@
+# Installation guide
+# First steps is to install virtual environment package of Python 
+sudo apt install python3-venv
+# Change the directory where you want to make Virtual environment
+cd/home/desktop (I am making on the desktop )
+# After that making virtual environment
+python3 -m venv bishnus350_venv
+# bishnus_350 is the name of the virtual environment, let's activate it
+source bishnus350_venv/bin/activate
+# This will activate your virtual environment. After you complete your coding task in the virtual environment, make sure you deactivate it. 
+deactivate
