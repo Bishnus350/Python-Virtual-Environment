@@ -8,5 +8,6 @@ sudo apt-get update
 - python3 -m venv bishnus350_venv
 # bishnus_350 is the name of the virtual environment, let's activate it
 - source bishnus350_venv/bin/activate
-# This will activate your virtual environment. After you complete your coding task in the virtual environment, make sure you deactivate it. 
+# This will activate your virtual environment. 
+# To deactive the Virtual environment
 - deactivate
