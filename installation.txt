@@ -1,5 +1,6 @@
-# Installation guide
-# The first step is to install the virtual environment package of Python 
+#Installation guide
+sudo apt-get update
+#  install the virtual environment package of Python 
 - sudo apt install python3-venv
 # Change the directory where you want to make the Virtual environment
 - cd/home/desktop (I am making it on the desktop )
